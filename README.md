@@ -12,8 +12,8 @@ KeySniff is an advanced keylogging tool designed to monitor and record keystroke
   - Sends email notifications when the keylogger is started and stopped.
 - Secure Logging:
   - Logs keystrokes securely to a specified directory.
-    
-    ---
+
+---
 ## How to Get and Use KeySniff
 
 ### Step 1: Clone the Repository
