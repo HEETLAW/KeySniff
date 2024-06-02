@@ -1,5 +1,4 @@
 # KeySniff
----
 
 KeySniff is an advanced keylogging tool designed to monitor and record keystrokes. This tool provides real-time logging of keystrokes, email notifications for starting and stopping the keylogger, and secure storage of log files.
 
